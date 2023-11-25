@@ -1,5 +1,5 @@
 ---  
-created: 2023-11-23 11:22  
+created: 2023-11-24 10:15  
 ---  
 tags: #daily_note  
   
@@ -10,30 +10,18 @@ tags: #daily_note
 45분 + 10분 🔥
 45분 + 10분 🔥
 10분 휴식 😌
-- [x] https://github.com/youngsu5582/Baekjoon/commit/8fd83e791fe4e1b0ef83897f54978108046feb97
+- [x] https://github.com/youngsu5582/Baekjoon/commit/edcec5f0ab9aee15c3e7d3ddfe0e894eef3e8ddd
+- [x] https://github.com/youngsu5582/Baekjoon/commit/17965097b815e75306a740a3c75f9501d49d8182
 
 ### 면접 준비
-[[Interview List]]
-
-45분 + 10분 🔎
-45분 + 10분 🔎
-10분 휴식 ✌️
-- [x] [[[Network] Nginx]]
-
 ### 프로젝트
-- commit 두개 이상을 지향 🤟
--> 생일 전날로 생략
+=> 생일로 생략
 
 ### 개인 공부
 - 딥하게 옵시디언 문서 작성 하나 작성 🧐
 - 전체적인 공부 및 실습 위주
-- [x] [[테스트 코드를 잘 작성하는 방법 with Jest]]
+- [x] [[Aurora MySQL vs Aurora PostgreSQL]] - 미완
 
+## 오늘 내가 한 것
 
----  
-## 일감 감옥  
-```tasks  
-path includes task  
-not done  
-short mode  
-```
+🎂Birthday
